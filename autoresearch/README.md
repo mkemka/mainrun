@@ -1,4 +1,4 @@
-# Autoresearch: Autonomous Research with Soul Debate
+# Autoresearch inspired function with agent debate
 
 A Claude Code skill that extends [Karpathy's autoresearch](https://github.com/karpathy/autoresearch) concept beyond ML training into any domain with a measurable metric.
 
